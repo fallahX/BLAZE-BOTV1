@@ -4,7 +4,7 @@ BOT WHATSAPP TERMUX ONLY BLAZE-BOT V1
 •ALAT•
 Siapin alat dan bahannya.
 ```bash
-> NIAT/KEMAUAN
+> niat/kemauan
 > 2 handphone (1 buat jalanin sc, 1 buat scan kode qr)
 > jaringan internet/wifi
 > penyimpanan lega
@@ -13,7 +13,7 @@ Siapin alat dan bahannya.
 
 •CARA INSTALL•
 
-```bash
+
 > download termux di playstore !
 > masuk ke apk termux lalu ketik command
 > termux-setup-storage
