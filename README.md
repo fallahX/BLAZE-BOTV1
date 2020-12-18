@@ -1,36 +1,32 @@
-# 🤖Naga-Bot🤖
-BOT WHATSAPP TERMUX ONLY BY Naga-Bot
 
-### Alat dan Bahan
+BOT WHATSAPP TERMUX ONLY BLAZE-BOT V1
+
+•ALAT•
 Siapin alat dan bahannya.
 ```bash
-> niat
-> 2 handphone (1 buat jalanin sc, 1 buat scan kode qr kak)
-> jaringan internet kenceng,kuota+
-> penyimpanan yang memadai
-> aplikasi whatsapp
-> jika error hubungi 088235435804
-> aplikasi termux
-> kopi nya diminum..
-```
+> NIAT/KEMAUAN
+> 2 handphone (1 buat jalanin sc, 1 buat scan kode qr)
+> jaringan internet/wifi
+> penyimpanan lega
+> aplikasi whatsapp bisnis
 
-### Cara Installnya
+
+•CARA INSTALL•
 
 ```bash
-> kalo lu belum punya apk termux, download di playstore !
-> masuk ke apk termux lalu ketik dibawah ini!
+> download termux di playstore !
+> masuk ke apk termux lalu ketik command
 > termux-setup-storage
 > pkg install git && pkg install wget && pkg install ffmpeg && pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/Arya274/Arya-Bot
+> git clone https://github.com/fallahX/BLAZE-BOT
 > cd Arya-Bot
 > npm i -g cwebp && npm i -g ytdl && npm i  && npm i got && node index js
-> Tinggal scan kode qr ya cuy...done cuk
-```
+> Tinggal scan kode qr ya c
 
 ## Features
 
-| Naga-Bot🤖  |                   Feature        |
+| BLAZE-BOT  |                   Feature        |
 | :-----------: | :------------------------------: |
 |       ✅       | Sticker Creator                  |
 |       ✅       | Nulis                           |
@@ -57,7 +53,7 @@ Siapin alat dan bahannya.
 |       ✅       | Say                              |
 |       ✅       | Toxic (new)                      |
 |       ✅       | loli                             |
-|       ✅       | hentai                           |
+|       ⛔       | hentai                           |
 |       ✅       | Owner (new)                      |
 |       ✅       | kata bijak                       |
 |       ✅       | Fakta                            |
@@ -66,13 +62,7 @@ Siapin alat dan bahannya.
 |       ✅       | Donate                           |
 |                   MORE                           |
 
-Ket: Aktiv 24 jam
-Jika ada kendala hubungi kami..
+Ket: JARINGAN LANCAR=AKTIV
 
 ## Note
-BOT INI KHUSUS HP/TERMUX DOANG YAH,JIKA MAU RE-UPLOAD CANTUMKAN NAMA SAYA (NFQ SQUAD)
-
-## Sosial Media Admin
-* [`Youtube Admin`](https://www.youtube.com/channel/UC0KCrPNyL-E7NZIp2l3mZLQ) 
-* [`Instagram Admin`](https://instagram.com/fws_grup)
-* [`WhatsApp Admin `](https://wa.me/6281357302007)
+BOT INI ONLY TERMUX ANDROID
