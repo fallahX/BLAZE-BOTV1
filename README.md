@@ -20,7 +20,7 @@ Siapin alat dan bahannya.
 > pkg install git && pkg install wget && pkg install ffmpeg && pkg install nodejs
 > apt update && apt upgrade
 > git clone https://github.com/fallahX/BLAZE-BOT
-> cd Arya-Bot
+> cd BLAZE-BOT
 > npm i -g cwebp && npm i -g ytdl && npm i  && npm i got && node index js
 > Tinggal scan kode qr ya c
 
