@@ -26,10 +26,10 @@ Siapin alat dan bahannya.
 
 ## Features
 
-| BLAZE-BOT  |                   Feature        |
-| :-----------: | :------------------------------: |
+| BLAZE-BOT      |                   Feature        |
+| :-----------:  | :------------------------------: |
 |       ✅       | Sticker Creator                  |
-|       ✅       | Nulis                           |
+|       ✅       | Nulis                            |
 |       ✅       | Covid (new)                      |
 |       ✅       | Alay (new)                       |
 |       ✅       | Lirik (new)                      |
@@ -60,8 +60,8 @@ Siapin alat dan bahannya.
 |       ✅       | Pokemon                          |
 |       ✅       | Info                             |
 |       ✅       | Donate                           |
-|                   MORE                           |
-
+|                   MORE                            |
+ 
 Ket: JARINGAN LANCAR=AKTIV
 
 ## Note
